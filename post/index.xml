@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Home (Hugo)</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on My New Home (Hugo)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2015 16:13:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome static website (by HuGO)</title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Sun, 02 Aug 2015 16:13:44 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/welcome/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-arronpj:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;Welcome to arronpj&lt;/h1&gt;
+
+&lt;h2 id=&#34;this-is-a-personal-website-please-be-nice:2cc7dc244eed4480e8b46c91e911e96b&#34;&gt;This is a personal website. please be nice.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>搬家計畫 (靜態網站)</title>
+      <link>http://localhost:1313/post/y15-new-post/</link>
+      <pubDate>Sun, 02 Aug 2015 10:33:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/y15-new-post/</guid>
+      <description>
+
+&lt;h2 id=&#34;搬家計畫-靜態網站:fda8e114064ffcfa0c22d641867d57ed&#34;&gt;搬家計畫 (靜態網站)&lt;/h2&gt;
+
+&lt;h3 id=&#34;重新思考blog這件事情:fda8e114064ffcfa0c22d641867d57ed&#34;&gt;重新思考blog這件事情&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;* 自從有了Dropbox + Evernote之後，寫作變成是很私人的一件事情。我寫下的雜記遠大於我寫下的blog post, 所以有了關站的想法。畢竟既然我只是寫給自己紀念用，基本上也沒有打算要給誰看。一個隨手寫，隨地寫，方便整理的方案，就遠遠比blog要來得實際的多。
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;markdown-static-site-generator:fda8e114064ffcfa0c22d641867d57ed&#34;&gt;markdown + static site generator&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;* 既然要花時間把東西弄好，那就弄一個有一點難度，但是又不會太折騰的方法吧。
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>http://localhost:1313/post/movie_list/</link>
+      <pubDate>Sat, 01 Aug 2015 20:01:40 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/movie_list/</guid>
+      <description>
+
+&lt;h2 id=&#34;movie-list:233e666b9d6b1781d8fec29b17b54702&#34;&gt;Movie List&lt;/h2&gt;
+
+&lt;h3 id=&#34;2015:233e666b9d6b1781d8fec29b17b54702&#34;&gt;2015&lt;/h3&gt;
+
+&lt;h3 id=&#34;2014:233e666b9d6b1781d8fec29b17b54702&#34;&gt;2014&lt;/h3&gt;
+
+&lt;h3 id=&#34;2013:233e666b9d6b1781d8fec29b17b54702&#34;&gt;2013&lt;/h3&gt;
+
+&lt;h3 id=&#34;2012:233e666b9d6b1781d8fec29b17b54702&#34;&gt;2012&lt;/h3&gt;
+
+&lt;h3 id=&#34;2011:233e666b9d6b1781d8fec29b17b54702&#34;&gt;2011&lt;/h3&gt;
+
+&lt;h3 id=&#34;2010:233e666b9d6b1781d8fec29b17b54702&#34;&gt;2010&lt;/h3&gt;
+
+&lt;h3 id=&#34;200x:233e666b9d6b1781d8fec29b17b54702&#34;&gt;200x&lt;/h3&gt;
+
+&lt;h3 id=&#34;19xx:233e666b9d6b1781d8fec29b17b54702&#34;&gt;19xx&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[分享] 年輕工作者離職的最大原因</title>
+      <link>http://localhost:1313/post/movie_y12-why-people-leave-job/</link>
+      <pubDate>Sat, 13 Oct 2012 19:57:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/movie_y12-why-people-leave-job/</guid>
+      <description>&lt;p&gt;閱讀全文
+&lt;a href=&#34;http://www.businessinsider.com/why-young-employees-quit-their-jobs-2012-9&#34;&gt;http://www.businessinsider.com/why-young-employees-quit-their-jobs-2012-9&lt;/a&gt;
+最大的兩個原因是：
+1. 沒有學到足夠的東西。（覺得停滯不前）
+2. 沒有受到足夠的重視，跟導師帶領，或職業訓練。
+（Quote: finds that a loss of training opportunities and a lack of mentors in the workplace are two of the biggest reasons why young workers leave.)
+當然有的時候是因為錢，但是大多時候前並不是第一的主因：
+ ‘Sometimes it’s because the job isn’t what they thought it was going to be. More often, they weren’t getting the personal attention, the mentoring, the coaching, the training they wanted.’”&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>如果讓子彈飛當的不是縣長</title>
+      <link>http://localhost:1313/post/movie_y11-what-if-the-bullet/</link>
+      <pubDate>Sun, 10 Jul 2011 20:01:40 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/movie_y11-what-if-the-bullet/</guid>
+      <description>&lt;p&gt;聽到某學弟在跟我說他覺得的RD生活，讓我想到我前幾天看得一部非常好的電影，雖然說心得被我存在草稿很久了，這個對話我還是想先貼&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://3.bp.blogspot.com/-q0nVo5P2O24/ThmK9SI2MkI/AAAAAAAAAko/kWkV9HaaBXU/s400/joke_img1.jpg&#34; alt=&#34;讓子彈飛海報&#34; title=&#34;讓子彈飛海報&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;學長:你知道當ＲＤ工程師最要緊的是什麼嗎?
+學弟:忍耐(大聲)
+學長:我跟你說，你當過ＲＤ工程師嗎?
+學弟:沒有(疑惑)&lt;/p&gt;
+
+&lt;p&gt;學長: 當ＲＤ工程師，先要有碩士學歷，還要拉攏主管，
+爭功霸勞，欺壓同事，專案完成後，主管功勞最大，
+同事的績效三七分成
+學弟: 怎麼才七成阿(困惑)
+學長: 七成是主管的，能得三成還得看主管臉色&lt;/p&gt;
+
+&lt;p&gt;學弟: 我大老遠來應徵，就是為了看主管臉色!?
+學長: 對&lt;/p&gt;
+
+&lt;p&gt;學弟: 我好不容易讀了個碩士，當了ＲＤ工程師
+學長: 對&lt;/p&gt;
+
+&lt;p&gt;應徵者: 我還得 拉攏主管
+面試官: 對&lt;/p&gt;
+
+&lt;p&gt;學弟: 我還得 爭功霸勞
+學長: 對&lt;/p&gt;
+
+&lt;p&gt;學弟: 我還只能領22K
+學長: 對&lt;/p&gt;
+
+&lt;p&gt;學弟: 還要看主管臉色
+學長: 對&lt;/p&gt;
+
+&lt;p&gt;學弟: 我不成了跪著要飯的嗎?!
+學長: 你要這樣說，當工程師真的是跪著要飯的，很多人想進來跪還都沒門路呢&lt;/p&gt;
+
+&lt;p&gt;學弟: 那敢問學長，我為啥要辛苦讀個碩士?
+學長: (搖搖頭，心裡惋惜對方已經受騙)&lt;/p&gt;
+
+&lt;p&gt;學弟: 我就是想好好發揮我的專業，我腳骨不軟Q，跪不下去
+學長: 原來你是想站著掙錢阿，想要有尊嚴，那還是回學校去吧&lt;/p&gt;
+
+&lt;p&gt;學弟: 這我就不明白了，我當了ＲＤ工程師，怎還不如個學生阿
+學長: 在外人眼裡，你是個ＲＤ工程師，可是在老闆眼裡，你就是跪著要飯的，賺錢，生意，不丟臉
+學弟: 丟臉，很丟臉&lt;/p&gt;
+
+&lt;p&gt;學長: 那你是想有尊嚴，還是賺錢呢
+學弟: 我是想有尊嚴的賺錢
+學長: 那賺不成&lt;/p&gt;
+
+&lt;p&gt;學弟: 碩士學歷跟學問能不能賺錢?
+學長: 可以，在學界&lt;/p&gt;
+
+&lt;p&gt;學弟: 當ＲＤ工程師能不能賺錢?
+學長: 可以，跪著&lt;/p&gt;
+
+&lt;p&gt;學弟: 那碩士學歷加工程師，能不能有尊嚴的賺錢
+學長: 敢問你是何方神聖
+不過就是個沒找過工作的小ＲＤ
+（搏君一笑）&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[電影][Movie] 下流正義 (The Lincoln Lawyer)</title>
+      <link>http://localhost:1313/post/movie_y11_The_Lincoln_Lawyer/</link>
+      <pubDate>Tue, 28 Jun 2011 19:57:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/movie_y11_The_Lincoln_Lawyer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.gadgetreview.com/wp-content/uploads/2012/10/the-lincoln-lawyer-poster-650x963.jpg&#34; alt=&#34;下流正義1&#34; title=&#34;下流正義1&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;這電影在上預告的時候我就很想看了，可惜忙碌總是不安照我的電影時程，所以拖到了現在，這電影我必須說選角選得真的還不賴。馬修麥康納(Matthew McConaughey)嘗試演渾蛋律師這種狀況怎麼可以錯過，堅持自我價值觀勇往直前一直都是他的特色。這次似乎也沒有讓人失望。雷恩菲力浦(Ryan Phillippe)這小白臉演甚麼我都覺得他有罪，從剛出道演得Cruel Intentions 我就覺得是這樣。到現在好像還是一個樣，沒有太大的進步。DA選瑪麗莎托梅(Marisa Tomei)我是一點意見都沒有，但是除了性感，聰慧的模樣，他好像沒有DA應該有的堅毅與霸氣。But Who care, sexy DA will do&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;以下有劇情，請慎入。&lt;/p&gt;
+
+&lt;p&gt;馬修扮演專門替罪犯脫罪的律師，街頭也吃得很開。出門有著專屬司機，(我要是搞這麼大事業我也請司機)生命當中最記得得一句話就是律師父親交代的，別讓無辜的人受到牢獄之災，即使面對著DA跟司法體系對幹，從來不手軟的他，這回就是栽在這句話。(主角好像都有一些無傷大雅的缺點，可以點然無敵小宇宙)。根據法律上來說律師根據保密條約，是不能搞死自己的當事人的，就算他是無敵變態殺人狂，也是一樣來著。所以這部電影的重點就在，如何在變態殺人狂裝無辜，DA不長近又癡呆，警察耍智障的情況之下，看主角威能如何替客戶脫罪，再婊客戶入罪。&lt;/p&gt;
+
+&lt;p&gt;PS: 醫生都說當了醫生才知道，怎麼大家都認識黑道。看了電影我才知道偶而也是要認是飆車族，當朋友的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://1.bp.blogspot.com/-EBHMTEA45ak/TgizeCEtjHI/AAAAAAAAAjE/OWDjNz25iew/s400/The_Lincoln_Lawyer_Poster.jpg&#34; alt=&#34;下流正義2&#34; title=&#34;下流正義2&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
